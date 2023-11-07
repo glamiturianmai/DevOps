@@ -8,4 +8,4 @@ RUN pip install \
 
 COPY matrix.py .
 
-CMD ["python","matrix.py"]
+ENTRYPOINT ["python","matrix.py"]
