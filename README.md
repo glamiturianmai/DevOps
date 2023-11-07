@@ -6,5 +6,5 @@
 * Садовая Анастасия
 * Морозова Яна
 ## Лабораторные работы
-* [Лабораторная работа 1]()
-* [Лабораторная работа 2]
+* [Лабораторная работа 1](https://github.com/Patineshka/DevOps/tree/main/Lab1)
+* [Лабораторная работа 2](https://github.com/Patineshka/DevOps/tree/main/Lab2)
