@@ -73,7 +73,7 @@ Amazon SNS - это управляемый сервис отправки соо�
 
 
 ## 4. Итоговая таблица
-![image](https://github.com/glamiturianmai/DevOps/blob/main/lab1/1.png)
+![image](https://github.com/glamiturianmai/DevOps/blob/main/lab1/2.png)
 
 
 ## 5. Вывод
