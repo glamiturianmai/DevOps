@@ -8,5 +8,6 @@
 ## Лабораторные работы
 * [Лабораторная работа 1](https://github.com/Patineshka/DevOps/tree/main/Lab1)
 * [Лабораторная работа 2](https://github.com/Patineshka/DevOps/tree/main/Lab2)
+* [Лабораторная работа 2](https://github.com/sadnastya/clouds_3_itmo)
 * [Аналитическая лаба 1](https://github.com/glamiturianmai/DevOps/tree/main/lab1)
 * [Аналитическая лаба 2](https://github.com/Patineshka/DevOps/tree/main/AnalyticalLab2)
